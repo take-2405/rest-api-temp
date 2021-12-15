@@ -12,7 +12,7 @@
 1. リポジトリをクローン  
 2. make compose-build  
 3. make run  
-4. make compose-cleean  
+4. make compose-clean  
 4はDBを削除するコマンドのため作業終了時に使用してください。
 
 ### 使用ライブラリ  
