@@ -1,6 +1,11 @@
 # rest-api-temp
 
+
 ## リポジトリ概要
+アドベントカレンダー用に作成  
+https://qiita.com/advent-calendar/2021/hcb-2021
+
+## 用途
 迅速にrest apiを作らなきゃいけない場合のテンプレート   
 注意
 - テンプレートAPIの使用はdocs/api.mdに記載  
